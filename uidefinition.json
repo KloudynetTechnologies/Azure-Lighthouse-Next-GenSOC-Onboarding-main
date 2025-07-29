@@ -6,8 +6,7 @@
         "config": {
             "isWizard": true,
             "basics": {
-                "description": "<img width=450 src=\"https://raw.githubusercontent.com/ShviamKloudy/Images/main/Kloudynetlogo.png
-\">\n\nKloudynet's one-click-to-deploy Lighthouse function. Complete the parameters below of where you would like Azure Lighthouse to reside and you're done! \n\n[Learn more about Mannai!](https://kloudynet.com/)",
+                "description": "<img width='450' src='https://raw.githubusercontent.com/ShviamKloudy/Images/main/Kloudynetlogo.png' />\n\nKloudynet's one-click-to-deploy Lighthouse function. Complete the parameters below of where you would like Azure Lighthouse to reside and you're done! \n\n[Learn more about Mannai!](https://kloudynet.com/)",
                 "location": {
                     "label": "Location",
                     "toolTip": "Location for all resources",
