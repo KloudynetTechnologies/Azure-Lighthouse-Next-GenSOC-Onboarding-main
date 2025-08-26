@@ -28,12 +28,11 @@ Go to Azure Portal and Login as Global Administrator and search for Azure Lighth
 
 ####  Filling in all the detail fields using the information below copy and paste for each field
 
-*Msp Offer Name:* 24/7 Next-Gen SOC
- 
-*Msp Offer Description:* KN Managed SOC Services
+**Msp Offer Name:** 24/7 Next-Gen SOC  
 
-*Managed By Tenant Id:* d1fd9326-4644-4e1c-8685-279bfbe2f5a0
+**Msp Offer Description:** KN Managed SOC Services  
 
+**Managed By Tenant Id:** d1fd9326-4644-4e1c-8685-279bfbe2f5a0  
 
 *When it is done, click in save*
 
