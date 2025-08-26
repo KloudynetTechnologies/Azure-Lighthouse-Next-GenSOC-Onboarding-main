@@ -30,7 +30,7 @@ Go to Azure Portal and Login as Global Administrator and search for Azure Lighth
 
 *Msp Offer Name:* 24/7 Next-Gen SOC
  
-*Msp Offer Description:* SOC offering as a service by Host Company Name. 24/7 Monitoring and Incident Response.
+*Msp Offer Description:* KN Managed SOC Services
 
 *Managed By Tenant Id:* d1fd9326-4644-4e1c-8685-279bfbe2f5a0
 
