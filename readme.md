@@ -39,7 +39,7 @@ Go to Azure Portal and Login as Global Administrator and search for Azure Lighth
 
 *Click Review + Create*
 
-Once the deployment is complete, the deployment can take around 15 minutes to show in Azure Lighthouse
+Once the deployment is complete, the deployment can take around 15 minutes to show in Azure Lighthouse.
 
 The following permissions are included in this lighthouse offer.
 
