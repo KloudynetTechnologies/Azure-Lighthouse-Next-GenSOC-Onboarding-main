@@ -1,3 +1,48 @@
+# Azure Lighthouse Managed Offer (Managed Security)
+
+Azure Lighthouse is a multi-tenant management solution that enables Managed Security Service Providers (MSSPs) and enterprises to manage multiple Azure tenants securely and efficiently. It allows cross-tenant access to subscriptions, resource groups, and services without requiring direct logins to each customer’s environment.
+
+https://github.com/ShviamKloudy/Images/blob/main/KN.PNG
+
+## Key Features of Azure Lighthouse
+
+*1. Centralized Management* – Manage multiple Azure tenants from a single pane of glass.
+
+*2. Granular Access Control* – Uses Azure RBAC to control permissions per tenant.
+
+*3. Scalability* – Ideal for MSPs and enterprises managing multiple clients.
+
+*4. Security & Compliance* – Provides just-in-time access and least privilege access control.
+
+*5. Automation & Monitoring* – Uses Azure Monitor, Log Analytics, and Security Center across tenants.
+
+## Benefits
+1.  Manage multiple Azure tenants from a *single interface*.
+2.  Enforce *role-based access control (RBAC)* for security.
+3.  Improve *efficiency* by automating onboarding using *ARM Templates*.
+
+## Azure Lighthouse Deployment Process to Client Tenant
+### Step 1: Log Into the Clients tenant 
+Go to Azure Portal and Login as Global Administrator and search for Azure Lighthouse and Click on Deploy to Azure for Azure Lighthouse – Resource Deployment 
+
+
+####  Filling in all the detail fields using the information below copy and paste for each field
+
+*Msp Offer Name:* 24/7 Next-Gen SOC
+ 
+*Msp Offer Description:* SOC offering as a service by Host Company Name. 24/7 Monitoring and Incident Response.
+
+*Managed By Tenant Id:* d1fd9326-4644-4e1c-8685-279bfbe2f5a0
+
+
+*When it is done, click in save*
+
+*Click Review + Create*
+
+Once the deployment is complete, the deployment can take around 15 minutes to show in Azure Lighthouse
+
+The following permissions are included in this lighthouse offer.
+
 | principalIdDisplayName  | roleDefinitionId                     | Name                                      | Description                                                          |
 | ----------------------- | ------------------------------------ | ----------------------------------------- | -------------------------------------------------------------------- |
 | SOC Analyst III         | 51d6186e-6489-4900-b93f-92e23144cca5 | Microsoft Sentinel Playbook Operator      | Can list, view, and manually run playbooks                           |
