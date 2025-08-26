@@ -7,14 +7,14 @@
    "metadata": {
     "description": "Specify a unique name for your offer"
    },
-   "defaultValue": "MDR- SOC"
+   "defaultValue": "NextGen-SOC"
   },
   "mspOfferDescription": {
    "type": "string",
    "metadata": {
     "description": "Name of the Managed Service Provider offering"
    },
-   "defaultValue": "Managed SOC Services"
+   "defaultValue": "KN Managed SOC Services"
   },
   "rgName": {
    "type": "string",
