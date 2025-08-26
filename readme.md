@@ -9,3 +9,10 @@
 | SOC Manager             | 91c1777a-f3dc-4fae-b103-61d183457e46 | Managed Services Registration Delete      | Delete role for managed services registration                        |
 | SOC Manager             | 87a39d53-fc1b-424a-814c-f7e04687dc9e | Logic App Contributor                     | Lets you manage logic app, but not access to them        |
 | Azure Security Insights | f4c81013-99ee-4d62-a7ee-b3f1f648599a | Microsoft Sentinel Automation Contributor | Allows Sentinel to add playbooks to automation rules                 |
+
+
+# Deploy to Azure 
+
+Use the below button to deploy this Azure Lighthouse offer to customer's tenant.
+[![Deploy Kloudynet Lighthouse](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FKloudynetTechnologies%2FAzure-Lighthouse-Next-GenSOC-Onboarding-main%2Frefs%2Fheads%2Fmain%2FNew_lighthousedeploy_Kloudynet.JSON)
+
