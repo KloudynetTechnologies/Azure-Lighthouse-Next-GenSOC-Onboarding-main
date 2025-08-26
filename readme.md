@@ -2,7 +2,7 @@
 
 Azure Lighthouse is a multi-tenant management solution that enables Managed Security Service Providers (MSSPs) and enterprises to manage multiple Azure tenants securely and efficiently. It allows cross-tenant access to subscriptions, resource groups, and services without requiring direct logins to each customer’s environment.
 
-https://github.com/ShviamKloudy/Images/blob/main/KN.PNG
+<img width="681" height="380" alt="KN" src="https://github.com/user-attachments/assets/1d2f0ba9-624d-45aa-9290-5ca4108d8ad6" />
 
 ## Key Features of Azure Lighthouse
 
