@@ -67,6 +67,11 @@
     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"	
    },
    {
+    "principalId": "38510f39-1160-4ecc-9ed0-e411faa15a0a",
+    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
+    "principalIdDisplayName": "SOC Manager"
+   },
+   {
      "principalId": "9e2b705c-301c-462d-8976-d1e14fca55a7",
      "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
      "principalIdDisplayName": "Azure Security Insights"
