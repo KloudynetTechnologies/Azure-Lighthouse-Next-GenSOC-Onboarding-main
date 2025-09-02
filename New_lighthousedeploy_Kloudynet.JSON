@@ -29,52 +29,57 @@
    {
     "principalId": "36cf8309-2e96-4ebd-b913-583575b223de",
     "roleDefinitionId": "51d6186e-6489-4900-b93f-92e23144cca5",
-    "principalIdDisplayName": "SOC Analyst III"
+    "principalIdDisplayName": "SOC Analyst III - Sentinel Playbook Operator"
    },
    {
     "principalId": "6df5cc3a-8491-4f28-a304-95d6f2bd52c5",
     "roleDefinitionId": "8d289c81-5878-46d4-8554-54e1e3d8b5cb",
-    "principalIdDisplayName": "SOC Analyst I"
+    "principalIdDisplayName": "SOC Analyst I - Sentinel Reader"
    },
    {
     "principalId": "6df5cc3a-8491-4f28-a304-95d6f2bd52c5",
     "roleDefinitionId": "73c42c96-874c-492b-b04d-ab87d138a893",
-    "principalIdDisplayName": "SOC Analyst I"
+    "principalIdDisplayName": "SOC Analyst I - Log Analytics Reader"
    },
    {
     "principalId": "6df5cc3a-8491-4f28-a304-95d6f2bd52c5",
     "roleDefinitionId": "3e150937-b8fe-4cfb-8069-0eaf05ecd056",
-    "principalIdDisplayName": "SOC Analyst I"
-   },
-   {
-    "principalId": "36cf8309-2e96-4ebd-b913-583575b223de",
-    "roleDefinitionId": "3e150937-b8fe-4cfb-8069-0eaf05ecd056",
-    "principalIdDisplayName": "SOC Analyst III"
+    "principalIdDisplayName": "SOC Analyst I - Sentinel Responder"
    },
    {
     "principalId": "36cf8309-2e96-4ebd-b913-583575b223de",
     "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
-    "principalIdDisplayName": "SOC Analyst III"
+    "principalIdDisplayName": "SOC Analyst III - Sentinel Contributor"
    },
    { 
     "principalId": "38510f39-1160-4ecc-9ed0-e411faa15a0a",    
-    "principalIdDisplayName": "SOC Manager",
+    "principalIdDisplayName": "SOC Manager - MSSP Assignment Delete Role",
     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
    },
    { 
     "principalId": "38510f39-1160-4ecc-9ed0-e411faa15a0a",    
-    "principalIdDisplayName": "SOC Manager",
+    "principalIdDisplayName": "SOC Manager - Logic App Contributor",
     "roleDefinitionId": "87a39d53-fc1b-424a-814c-f7e04687dc9e"	
    },
    {
     "principalId": "38510f39-1160-4ecc-9ed0-e411faa15a0a",
     "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c",
-    "principalIdDisplayName": "SOC Manager"
+    "principalIdDisplayName": "SOC Manager - RG Contributor"
    },
    {
      "principalId": "9e2b705c-301c-462d-8976-d1e14fca55a7",
      "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a",
-     "principalIdDisplayName": "Azure Security Insights"
+     "principalIdDisplayName": "App - Sentinel Automation Contributor"
+   },
+   {
+    "principalId": "b11a9c56-cb1e-4057-add4-8cb22faad5ab",
+    "roleDefinitionId": "ab8e14d6-4a74-4a29-9ba8-549422addade",
+    "principalIdDisplayName": "SOC Analyst II - Sentinel Contributor"
+   },
+   {
+    "principalId": "b11a9c56-cb1e-4057-add4-8cb22faad5ab",
+    "roleDefinitionId": "51d6186e-6489-4900-b93f-92e23144cca5",
+    "principalIdDisplayName": "SOC Analyst II - Sentinel Playbook Operator"
    }
   ]
  },
